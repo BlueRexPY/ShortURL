@@ -1,2 +1,2 @@
 # ShortURL
-Программа для генерации коротких ссылок
+Program for generating short links
